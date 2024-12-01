@@ -1,0 +1,51 @@
+item_id,name,provider,mission,focus
+1,AgriInnovate Program,Sustainable Canadian Agricultural Partnership,"Incentivizes targeted commercialization, demonstration and/or adoption of commercial-ready innovative technologies and processes that increase agricultural and agri-food sector competitiveness and sustainability benefits.",Agriculture Sector Innovation and Development | Agri-food Technology Projects | Sector Competitiveness
+2,Clean Fuels Fund,Natural Resources Canada,"Seeks to reduce risk for clean fuel facility projects; including conversions, feasibility studies, biomass supply chains, and regulatory gaps.",Clean fuel projects | Biomass Projects | Facility Conversations | Regulatory Research and Development
+3,Energy Innovation Program,National Research Council Canada,"Funds research and development for clean energy technologies, aiding Canada's climate goals and the shift to a low-carbon economy.",Energy Efficiency Improvement | Renewable Heat and Power | Electrification | Diesel Reliance Reduction | Remote and Indigenous Community Support
+4,Low Carbon Economy Fund,Environment and Climate Change Canada,"Supports projects to reduce Canada's greenhouse gas (GHG) emissions, generate clean growth, build resilient communities, and create good jobs for Canadians.",GHG Reduction | Program Delivery | Clean Energy Efficiency | Indigenous Led Projects | Implementation Readiness
+5,Sustainable Development Technology Canada,Sustainable Development Technology Canada,Helps Canadian companies develop and deploy sustainable technologies by delivering critical funding support at every stage of their journey.,"GHG Reductions | Water Consumption Reduction | Water, Soil or Air Contamination Reduction | Multi-stage Project Support"
+6,Carbon Reduction Partnership,Clean Energy Council,Enhances sector competitiveness through sustainable technology adoption.,Program Delivery | Sector Competitiveness | Water Consumption Reduction
+7,Clean Communities Fund,Green Economy Canada,Promotes technological innovation in renewable energy and green tech.,Sector Competitiveness
+8,Energy Transition Program,Canadian Clean Energy Council,Encourages projects that aim for water conservation and contamination reduction.,Diesel Reliance Reduction | Implementation Readiness
+9,Innovation Boost Fund,Energy Transition Alliance,Encourages projects that aim for water conservation and contamination reduction.,Diesel Reliance Reduction | Remote and Indigenous Community Support
+10,Rural Clean Tech Grant,Eco Canada,Promotes technological innovation in renewable energy and green tech.,"Energy Efficiency Improvement | Implementation Readiness | Water, Soil or Air Contamination Reduction"
+11,Bioenergy Grant,Green Communities Canada,Supports the development of sustainable practices in targeted industries.,Sector Competitiveness
+12,Smart Agriculture Program,Green Communities Canada,Encourages circular economy models through program support.,GHG Reduction
+13,Carbon Neutrality Initiative,Canadian Environmental Assessment Agency,Funds programs to reduce diesel reliance in remote and Indigenous communities.,Implementation Readiness | Regulatory Research and Development
+14,Energy Transition Program,Green Communities Canada,Enhances sector competitiveness through sustainable technology adoption.,Renewable Heat and Power | Sector Competitiveness | Multi-stage Project Support
+15,EcoSolutions Canada,Sustainable Futures Agency,Enhances sector competitiveness through sustainable technology adoption.,GHG Reduction | Remote and Indigenous Community Support | GHG Reductions
+16,Low Impact Energy Fund,Climate Innovation Council,Aims to reduce greenhouse gases through cutting-edge technology applications.,Multi-stage Project Support | Agri-food Technology Projects
+17,Urban Sustainability Grant,"Innovation, Science and Economic Development Canada",Invests in clean energy and energy efficiency improvements across sectors.,Program Delivery | Electrification
+18,EcoEnergy Grant,Environment Canada,Aims to reduce greenhouse gases through cutting-edge technology applications.,Diesel Reliance Reduction | Program Delivery
+19,Climate Resilience Fund,Circular Economy Association,Encourages circular economy models through program support.,Remote and Indigenous Community Support
+20,AgriInnovation Support,Climate Innovation Council,Aims to reduce greenhouse gases through cutting-edge technology applications.,Electrification | GHG Reduction
+21,Energy Transition Program,Climate Action Canada,Invests in clean energy and energy efficiency improvements across sectors.,Renewable Heat and Power | Clean Energy Efficiency | Regulatory Research and Development
+22,Smart Agriculture Program,Biofuel Canada,Supports the development of sustainable practices in targeted industries.,Clean fuel projects
+23,Clean Resource Alliance,Environment Canada,Provides support for indigenous-led projects focused on sustainability.,"GHG Reduction | Electrification | Water, Soil or Air Contamination Reduction"
+24,Energy Futures Initiative,Sustainable Development Canada,Invests in clean energy and energy efficiency improvements across sectors.,Facility Conversations
+25,Climate Action Support,Natural Resources Canada,Promotes technological innovation in renewable energy and green tech.,Diesel Reliance Reduction | Multi-stage Project Support
+26,Climate Action Support,Climate Innovation Council,Funds programs to reduce diesel reliance in remote and Indigenous communities.,Program Delivery | Multi-stage Project Support | Clean Energy Efficiency
+27,Smart Agriculture Program,Agriculture and Agri-Food Canada,Backs multi-stage projects for long-term environmental impact.,Implementation Readiness
+28,Circular Economy Support,Canadian Clean Energy Council,Encourages projects that aim for water conservation and contamination reduction.,Remote and Indigenous Community Support | Indigenous Led Projects
+29,Climate Action Support,Green Economy Canada,Incentivizes clean energy projects that reduce carbon emissions.,Water Consumption Reduction | Regulatory Research and Development
+30,Water Conservation Grant,Energy Efficiency Canada,Encourages projects that aim for water conservation and contamination reduction.,Clean Energy Efficiency | Regulatory Research and Development | Diesel Reliance Reduction
+31,Clean Energy Pathway,Canadian Agricultural Partnership,Invests in clean energy and energy efficiency improvements across sectors.,Renewable Heat and Power | GHG Reductions
+32,EcoInfrastructure Fund,Sustainable Development Canada,Backs multi-stage projects for long-term environmental impact.,Renewable Heat and Power
+33,Clean Industrial Fund,Sustainable Agriculture Canada,Supports the development of sustainable practices in targeted industries.,Indigenous Led Projects
+34,Low Impact Energy Fund,Agriculture and Agri-Food Canada,Aims to reduce greenhouse gases through cutting-edge technology applications.,Program Delivery | Remote and Indigenous Community Support
+35,Urban Sustainability Grant,Climate Innovation Council,Promotes technological innovation in renewable energy and green tech.,GHG Reductions | Regulatory Research and Development
+36,Clean Innovation Accelerator,Environment Canada,Aims to reduce greenhouse gases through cutting-edge technology applications.,Agriculture Sector Innovation and Development | Indigenous Led Projects | Water Consumption Reduction
+37,Renewable Advancement Fund,Circular Economy Association,Promotes technological innovation in renewable energy and green tech.,Diesel Reliance Reduction | Water Consumption Reduction
+38,Clean Innovation Accelerator,Agriculture and Agri-Food Canada,Incentivizes clean energy projects that reduce carbon emissions.,Clean fuel projects | Facility Conversations
+39,Renewable Resource Development,Circular Economy Association,Backs multi-stage projects for long-term environmental impact.,GHG Reductions | GHG Reduction
+40,Climate Partnership Canada,Environment Canada,Promotes technological innovation in renewable energy and green tech.,Clean fuel projects
+41,Circular Economy Support,Canadian Agricultural Partnership,Provides support for indigenous-led projects focused on sustainability.,"Water, Soil or Air Contamination Reduction"
+42,Water Conservation Grant,Green Communities Canada,Encourages projects that aim for water conservation and contamination reduction.,Facility Conversations | Implementation Readiness | Indigenous Led Projects
+43,AgriInnovation Support,Sustainable Futures Agency,Supports the development of sustainable practices in targeted industries.,"Regulatory Research and Development | Water, Soil or Air Contamination Reduction | Energy Efficiency Improvement"
+44,Climate Action Support,Climate Innovation Council,Supports the development of sustainable practices in targeted industries.,Multi-stage Project Support | Diesel Reliance Reduction
+45,Renewable Advancement Fund,"Innovation, Science and Economic Development Canada",Encourages projects that aim for water conservation and contamination reduction.,Clean Energy Efficiency | Implementation Readiness
+46,Climate Leadership Support,Circular Economy Association,Encourages circular economy models through program support.,Facility Conversations | Clean fuel projects
+47,Clean Energy Pathway,Natural Resources Canada,Encourages circular economy models through program support.,Water Consumption Reduction | Regulatory Research and Development
+48,Clean Innovation Accelerator,Climate Action Canada,Incentivizes clean energy projects that reduce carbon emissions.,Clean fuel projects
+49,Sustainable Practices Canada,Sustainable Futures Agency,Backs multi-stage projects for long-term environmental impact.,Agriculture Sector Innovation and Development | Facility Conversations
+50,Water Conservation Grant,Canadian Clean Energy Council,Enhances sector competitiveness through sustainable technology adoption.,Implementation Readiness | Renewable Heat and Power | Indigenous Led Projects
