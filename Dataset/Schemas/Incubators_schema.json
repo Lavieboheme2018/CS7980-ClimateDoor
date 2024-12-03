@@ -1,0 +1,27 @@
+{
+    "type": "record",
+    "name": "Incubators",
+    "namespace": "com.amazonaws.personalize",
+    "fields": [
+        {
+            "name": "item_id",
+            "type": "string"
+        },
+        {
+            "name": "incubator",
+            "type": "string"
+        },
+        {
+            "name": "location",
+            "type": "string"
+        },
+        {
+            "name": "industry",
+            "type": "string"
+        },
+        {
+            "name": "description",
+            "type": "string"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "record",
+    "name": "UserProfiles",
+    "namespace": "com.amazonaws.personalize",
+    "fields": [
+        {
+            "name": "user_id",
+            "type": "string"
+        },
+        {
+            "name": "capital_raised",
+            "type": "int"
+        },
+        {
+            "name": "company_name",
+            "type": "string"
+        },
+        {
+            "name": "country",
+            "type": "string"
+        },
+        {
+            "name": "funding_type",
+            "type": "string"
+        },
+        {
+            "name": "industry",
+            "type": "string"
+        },
+        {
+            "name": "non_dilutive_funding",
+            "type": "int"
+        },
+        {
+            "name": "trl",
+            "type": "int"
+        }
+    ]
+}

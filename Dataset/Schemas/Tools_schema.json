@@ -1,0 +1,19 @@
+{
+    "type": "record",
+    "name": "Tools",
+    "namespace": "com.amazonaws.personalize",
+    "fields": [
+        {
+            "name": "item_id",
+            "type": "string"
+        },
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "category",
+            "type": "string"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "record",
+    "name": "Grants",
+    "namespace": "com.amazonaws.personalize",
+    "fields": [
+        {
+            "name": "item_id",
+            "type": "string"
+        },
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "provider",
+            "type": "string"
+        },
+        {
+            "name": "mission",
+            "type": "string"
+        },
+        {
+            "name": "focus",
+            "type": "string"
+        }
+    ]
+}

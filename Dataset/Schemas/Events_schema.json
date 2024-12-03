@@ -1,0 +1,27 @@
+{
+    "type": "record",
+    "name": "Events",
+    "namespace": "com.amazonaws.personalize",
+    "fields": [
+        {
+            "name": "item_id",
+            "type": "string"
+        },
+        {
+            "name": "event",
+            "type": "string"
+        },
+        {
+            "name": "date",
+            "type": "string"
+        },
+        {
+            "name": "location",
+            "type": "string"
+        },
+        {
+            "name": "description",
+            "type": "string"
+        }
+    ]
+}
