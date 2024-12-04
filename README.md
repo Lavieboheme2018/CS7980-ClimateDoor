@@ -8,6 +8,20 @@ This project implements a complete personalized recommendation system using **Am
 
 ---
 
+## Research Scope
+
+As part of the **Master of Science in Computer Science (MSCS)** program at **Northeastern University**, this project aligns with the research scope of **Green Software**. It explores how cloud-based serverless architectures and machine learning solutions can be leveraged to optimize energy efficiency, reduce carbon footprints, and contribute to sustainable computing practices.
+
+The research investigates:
+- AI for User Guidance - How can AI enhance user guidance in cleantech?
+- AI for Stakeholder Outreach - How can AI optimize stakeholder outreach?
+- Sustainable Software Design - How can software design cut carbon emissions?
+- Energy Efficiency - How can cloud scaling reduce energy waste?
+
+A **research poster** and **demo video** accompanying this project detail the architectural design, sustainability considerations, and system performance.
+
+---
+
 ## Solution Architecture
 
 The architecture consists of the following key components:
@@ -36,3 +50,16 @@ The architecture consists of the following key components:
 
 - **Scalable Architecture**:
   - Built with serverless components such as Lambda, API Gateway, and Kinesis for high scalability.
+
+- **Sustainability Focus**:
+  - The project includes metrics to evaluate the energy efficiency of AWS components in alignment with green software principles.
+
+---
+
+## Additional Resources
+
+- **Research Poster**:
+  - Visualizes the architectural design and highlights sustainability goals achieved through serverless and managed AWS services.
+
+- **Demo Video**:
+  - Demonstrates the functionality of the recommendation system, including real-time event tracking, training workflows, and recommendation retrieval via API Gateway.
