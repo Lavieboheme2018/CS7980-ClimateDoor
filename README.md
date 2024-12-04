@@ -63,3 +63,6 @@ The architecture consists of the following key components:
 
 - **Demo Video**:
   - Demonstrates the functionality of the recommendation system, including real-time event tracking, training workflows, and recommendation retrieval via API Gateway.
+ 
+**License**
+This project is licensed under the MIT License.
